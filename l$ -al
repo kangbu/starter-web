@@ -1,0 +1,56 @@
+[33mcommit 1df95ff86ac95ed23bea87e6f222dfb8d04f860a[m
+Author: KangJin Choi <kangbu@gmail.com>
+Date:   Sat Jan 21 23:30:17 2017 +0900
+
+    deleting level1 and all children
+
+[1mdiff --git a/level1/level1-file.txt b/level1/level1-file.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 8d938e2..0000000[m
+[1m--- a/level1/level1-file.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-level1[m
+\ No newline at end of file[m
+[1mdiff --git a/level1/level1.txt b/level1/level1.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 87d118b..0000000[m
+[1m--- a/level1/level1.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-ABCDEFG[m
+[1mdiff --git a/level1/level2/level2.txt b/level1/level2/level2.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 6b6ee32..0000000[m
+[1m--- a/level1/level2/level2.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-whoa[m
+\ No newline at end of file[m
+[1mdiff --git a/level1/level2/level2file2.txt b/level1/level2/level2file2.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 1311dd7..0000000[m
+[1m--- a/level1/level2/level2file2.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1,2 +0,0 @@[m
+[31m-Williamsburg woke thundercats, hot chicken umami af sunt hell of. Sriracha proident eu, meh reprehenderit keytar meditation twee. Vero biodiesel dolore veniam food truck hell of, aesthetic meh poke humblebrag austin chambray pariatur. Labore roof party shoreditch beard nesciunt laboris. Nihil humblebrag vero laboris ugh dolor, cray +1 sartorial cillum. Fixie qui est aliquip pinterest, +1 live-edge vaporware man braid hashtag accusamus williamsburg. Whatever kickstarter culpa, gastropub hexagon proident tempor tacos gluten-free.[m
+[31m-Williamsburg woke thundercats, hot chicken umami af sunt hell of. Sriracha proident eu, meh reprehenderit keytar meditation twee. Vero biodiesel dolore veniam food truck hell of, aesthetic meh poke humblebrag austin chambray pariatur. Labore roof party shoreditch beard nesciunt laboris. Nihil humblebrag vero laboris ugh dolor, cray +1 sartorial cillum. Fixie qui est aliquip pinterest, +1 live-edge vaporware man braid hashtag accusamus williamsburg. Whatever kickstarter culpa, gastropub hexagon proident tempor tacos gluten-free.[m
+[1mdiff --git a/level1/level2/level3/level3.txt b/level1/level2/level3/level3.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 2eb4dd1..0000000[m
+[1m--- a/level1/level2/level3/level3.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-bcdeffe[m
+[1mdiff --git a/level1/level2/level3/level4/level4-file.tt b/level1/level2/level3/level4/level4-file.tt[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/level1/level2/level3/level4/level4-file.txt b/level1/level2/level3/level4/level4-file.txt[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/level1/level2/level3/level4/level4.txt b/level1/level2/level3/level4/level4.txt[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/level1/level2/level3/level4/level5/amp b/level1/level2/level3/level4/level5/amp[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
